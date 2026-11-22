@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Paw Pages</string>
+    <style name="Theme.PawPages" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">#FFF9FC</item>
+        <item name="android:colorAccent">#9C3F69</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
